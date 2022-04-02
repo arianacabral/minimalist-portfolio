@@ -38,6 +38,9 @@ Image          | `#8ebf2b` | <img src="./palette/img6.png" alt="palette" style="
 
 Modify the html file [``index.html``](https://github.com/arianacabral/minimalist-portfolio/blob/main/index.html) to change the elements or add new ones. You can also style your portfolio by modifying the CSS file  [``index.css``](https://github.com/arianacabral/minimalist-portfolio/blob/main/index.html).
 
+## Contributing 🍰
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and open a pull request. 
+
 ## Contact 📬
 
 For more information or questions, please contact me
