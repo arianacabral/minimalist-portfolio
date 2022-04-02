@@ -1,6 +1,6 @@
 ## Minimalist portfolio in dark theme
 
-| [<img src="demo/demo_portfolio.gif" width="100%;"/><br /><sub> TEMPLATE </sub>](demo/demo_portfolio.gif)<br /> |  [<img src="demo/demo_portfolio.gif" width="100%;"/><br /><sub> MINIMALIST PORTFOLIO</sub>](demo/demo_portfolio.gif)<br /> |
+| [<img src="demo/demo_portfolio.gif" width="100%;"/><br /><sub> TEMPLATE </sub>](demo/demo_portfolio.gif)<br /> |  [<img src="demo/my_art_portfolio.gif" width="100%;"/><br /><sub> MY ART PORTFOLIO (EXAMPLE)</sub>](demo/demo_portfolio.gif)<br /> |
 | :---: | :---: |
 
 ## Color Palette 🎨
