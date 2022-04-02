@@ -35,7 +35,13 @@ Image          | `#8ebf2b` | <img src="./palette/img6.png" alt="palette" style="
   <img align="center" alt="Font Awesome" height="30" width="30" src="https://avatars.githubusercontent.com/u/1505683?s=200&v=4">
 </div> <br/>
 
+## Installation Steps 🛠️
+
+You don't need to do anything to see and use this template. 
+
 ## Details 🔭
+
+Notepad or [Notepad++](https://notepad-plus-plus.org/) can be used to make changes.
 
 Modify the html file [``index.html``](https://github.com/arianacabral/minimalist-portfolio/blob/main/index.html) to change the elements or add new ones. You can also style your portfolio by modifying the CSS file  [``index.css``](https://github.com/arianacabral/minimalist-portfolio/blob/main/index.html).
 
