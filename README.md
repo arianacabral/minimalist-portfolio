@@ -4,7 +4,7 @@
 
 > A simple art portfolio using only HTML, CSS and Bootstrap!
 
-| [<img src="demo/demo_portfolio.gif" width="100%;"/><br /><sub> TEMPLATE </sub>](demo/demo_portfolio.gif)<br /> |  [<img src="demo/my_art_portfolio.gif" width="100%;"/><br /><sub> MY ART PORTFOLIO (EXAMPLE)</sub>](demo/demo_portfolio.gif)<br /> |
+| [<img src="demo/demo_portfolio.gif" width="100%;"/>](demo/demo_portfolio.gif) |  [<img src="demo/my_art_portfolio.gif" width="100%;"/> ](demo/demo_portfolio.gif) |
 | :---: | :---: |
 
 ## Color Palette 🎨
