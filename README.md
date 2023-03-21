@@ -37,11 +37,11 @@ Image          | `#8ebf2b` | <img src="./palette/img6.png" alt="palette" style="
 
 ## Installation Steps 🛠️
 
-You don't need to do anything to see and use this template. Then, clone the repository
+You don't need to do anything to see and use this template. If you are a git user, you can install and keep up to date by cloning the repository:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/arianacabral/minimalist-portfolio.git
+git clone https://github.com/arianacabral/minimalist-portfolio.git
 ```
 
 ## Details 🔭
